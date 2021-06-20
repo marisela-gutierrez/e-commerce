@@ -10,6 +10,6 @@ This application is the back end for an e-commerce site. User is able to connect
 * Express.js
 
 Link to a walkthrough video demonstrating the functionality of the application.:
-[![Capture.jpg](https://i.postimg.cc/L8GXThBg/Capture.jpg)](https://postimg.cc/3kCYr8q3)
+[![ecom.jpg](https://i.postimg.cc/VNDzh6XF/ecom.jpg)](https://postimg.cc/hJQFzKyJ)
 
-https://drive.google.com/file/d/1m7O3ql5WOIdyaUUwHvwS3zGUM-US6c-H/preview
+<iframe src="https://drive.google.com/file/d/1PfJsjBaR-fyUCRJaZwkbwnE3sa2SsukX/preview" width="640" height="480"></iframe>
